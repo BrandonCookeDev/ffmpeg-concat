@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "commander": "^2.15.1",
+    "ffmpeg": "0.0.4",
     "ffmpeg-on-progress": "^1.0.0",
     "ffmpeg-probe": "^1.0.4",
     "fluent-ffmpeg": "^2.1.2",
@@ -43,6 +44,7 @@
     "gl-transition": "^1.13.0",
     "gl-transitions": "^1.40.0",
     "left-pad": "^1.2.0",
+    "moment": "^2.22.2",
     "ndarray": "^1.0.18",
     "p-map": "^1.2.0",
     "p-race": "^1.0.0",
